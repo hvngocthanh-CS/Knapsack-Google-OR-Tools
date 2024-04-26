@@ -1,0 +1,8 @@
+Testcase name: original_data/01WeaklyCorrelated/n00050/R01000/s049.kp
+Execution time: 0.007000923156738281 sec
+Capacity = 11694 
+Total weight = 11683 
+Total value = 12973 
+Number of items: 25 
+Packed items: [0, 2, 4, 5, 10, 13, 16, 17, 18, 19, 20, 23, 24, 25, 27, 28, 29, 35, 36, 37, 38, 39, 43, 45, 48] 
+Packed weights: [67, 111, 512, 50, 631, 603, 249, 138, 424, 377, 773, 947, 621, 662, 911, 207, 771, 223, 256, 438, 613, 694, 777, 543, 85]

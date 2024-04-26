@@ -1,0 +1,8 @@
+Testcase name: original_data/06UncorrelatedWithSimilarWeights/n00050/R10000/s019.kp
+Execution time: 0.03700089454650879 sec
+Capacity = 2476353 
+Total weight = 2401270 
+Total value = 16657 
+Number of items: 24 
+Packed items: [0, 1, 2, 3, 5, 15, 19, 21, 22, 25, 26, 28, 30, 31, 32, 33, 35, 36, 37, 40, 42, 45, 47, 48] 
+Packed weights: [100090, 100087, 100089, 100024, 100038, 100068, 100075, 100006, 100051, 100044, 100027, 100017, 100047, 100011, 100062, 100088, 100006, 100065, 100064, 100065, 100093, 100096, 100051, 100006]

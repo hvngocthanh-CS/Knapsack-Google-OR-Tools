@@ -1,0 +1,8 @@
+Testcase name: original_data/03InverseStronglyCorrelated/n00050/R10000/s004.kp
+Execution time: 1.1346774101257324 sec
+Capacity = 147281 
+Total weight = 147279 
+Total value = 131279 
+Number of items: 16 
+Packed items: [6, 7, 8, 15, 16, 17, 18, 21, 22, 24, 27, 32, 33, 36, 39, 46] 
+Packed weights: [10180, 9005, 8652, 10275, 9290, 9067, 9005, 7270, 8319, 9801, 7718, 10346, 9655, 10089, 9481, 9126]

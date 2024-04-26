@@ -1,0 +1,8 @@
+Testcase name: original_data/11ProfitCeiling/n00050/R10000/s017.kp
+Execution time: 6.422940969467163 sec
+Capacity = 140602 
+Total weight = 140601 
+Total value = 140592 
+Number of items: 22 
+Packed items: [0, 1, 4, 8, 10, 11, 13, 14, 17, 19, 20, 22, 23, 24, 25, 26, 30, 33, 41, 45, 48, 49] 
+Packed weights: [5220, 8067, 7662, 270, 7464, 2524, 3175, 8464, 9985, 8127, 8754, 7056, 5589, 9552, 2101, 5400, 819, 9964, 7521, 7744, 5569, 9574]

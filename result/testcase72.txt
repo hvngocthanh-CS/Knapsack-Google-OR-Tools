@@ -1,0 +1,8 @@
+Testcase name: original_data/09SpannerStronglyCorrelated/n00050/R01000/s019.kp
+Execution time: 4.7344911098480225 sec
+Capacity = 7962 
+Total weight = 7959 
+Total value = 20859 
+Number of items: 28 
+Packed items: [2, 3, 4, 5, 7, 10, 12, 13, 18, 19, 20, 21, 22, 23, 25, 26, 28, 30, 34, 35, 36, 37, 38, 39, 41, 43, 47, 49] 
+Packed weights: [183, 183, 244, 122, 183, 549, 488, 427, 244, 427, 488, 305, 122, 366, 549, 61, 183, 488, 122, 426, 61, 183, 122, 305, 427, 61, 213, 427]
